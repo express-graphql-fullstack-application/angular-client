@@ -1,0 +1,49 @@
+.side-menu-bar {
+  position: absolute;
+  width: 223px;
+  height: 957px;
+  left: 0px;
+  top: 67px;
+
+  background: #1976d2;
+  mix-blend-mode: multiply;
+  filter: drop-shadow(6px 0px 6px rgba(0, 0, 0, 0.2));
+}
+
+.child-component-book {
+  /* Books */
+
+  position: absolute;
+  width: 89.35px;
+  height: 47.7px;
+  left: 66px;
+  top: 83px;
+
+  font-family: Pangolin;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 30px;
+  text-align: center;
+
+  color: #ffffff;
+}
+
+.child-component-author {
+  /* Authors */
+
+  position: absolute;
+  width: 106px;
+  height: 37px;
+  left: 62px;
+  top: 152px;
+
+  font-family: Pangolin;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 30px;
+  text-align: center;
+
+  color: #ffffff;
+}

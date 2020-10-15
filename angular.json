@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "client-angular-graphql"
+    }
+  },
+  "defaultProject": "client-angular-graphql",
+  "cli": {
+    "analytics": "d69cb0b9-7c7d-4261-9f2e-9788ed5239db"
+  }
 }
