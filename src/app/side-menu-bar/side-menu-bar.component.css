@@ -13,7 +13,7 @@
 .child-component-book {
   /* Books */
 
-  position: absolute;
+  position: relative;
   width: 89.35px;
   height: 47.7px;
   left: 66px;
@@ -27,6 +27,12 @@
   text-align: center;
 
   color: #ffffff;
+}
+
+.child-component-book:hover {
+  cursor: pointer;
+
+  text-decoration: underline;
 }
 
 .child-component-author {
@@ -46,4 +52,10 @@
   text-align: center;
 
   color: #ffffff;
+}
+
+.child-component-author:hover {
+  cursor: pointer;
+
+  text-decoration: underline;
 }
